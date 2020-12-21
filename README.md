@@ -26,12 +26,23 @@ And there are tons of people who make these videos, for myriad reasons. It might
 * PyTorch
   * the OCR module uses the Pytorch to make better detection/recognition as fast as possible.
 * Flask  
+  * used Flask to set up the server for the deep learning model
 * React
+  * front-end is built on React.js
 * MongoDB
+  * to store the user credentials, queries, processed video and other data
+* Express
+  * used express.js to create an api in order to connect the frontend and the database
 
 # Future Scope
 
 * Can be used as an tool for generating the insights of a video
+* Execution time and accuracy can be improved
+* more optimized similarity fucntions can be used for understanding the keywords better
 
+# Contributors
+* (Aman Kumar Mallik)[https://github.com/Octaves0911]
+* (Rithik Dutt)[https://github.com/Rithik-rethink]
+* (Ashutosh Mahapatra)[https://github.com/amahapatra13]
 
 
