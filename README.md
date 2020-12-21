@@ -4,7 +4,7 @@
   
   # SeeVid
   
-Thinking of adding a magical sunset scene to end a reel? Maybe particular part of a conference that you missed? Whatever it maybe, SeeVid provides you the timestamp of the exact content you're looking for with just a prompt word. It serves by helping pinpoint these instances to you, make the task of extracting your favorite clip from a video hassle-free and thus conveniently aiding users in the creation of diverse content!
+Thinking of adding a magical sunset scene to end a reel? Maybe particular part of a conference that you missed? Whatever it maybe, SeeVid provides you the timestamp of the exact content you're looking for with just a prompt word. It serves by helping pinpoint these instances to you, make the task of extracting your favorite clip from a video hassle-free and thus conveniently aiding users in the creation of diverse content! [Drive Link to Project](https://drive.google.com/drive/folders/1R2nCK99ZeckdDLoa6X8H6O3iYJ_YyO95?usp=sharing)
 
 
   # Problem Statement
@@ -18,6 +18,8 @@ And there are tons of people who make these videos, for myriad reasons. It might
 * With this tool, the user will be able to maneuver to a particular clip by providing a link and description.
 * Our user-friendly website first authenticates the user then takes in a request. 
 * When the user enters a URL and a query, our AI model processes the request and returns the appropriate timestamp that satisfies the given query along with the duration of the clip.
+* It can also detect the text in the clip and pinpoint the time intervals as per the provided keyword.
+* This will extract specific topics for students to help them in their online video lecture and also help the scholars in their conferences.
 
 
 # Built with
@@ -39,6 +41,7 @@ And there are tons of people who make these videos, for myriad reasons. It might
 * Can be used as an tool for generating the insights of a video
 * Execution time and accuracy can be improved
 * more optimized similarity fucntions can be used for understanding the keywords better
+* It can be a platform where user can find much more specific content to meet their needs.
 
 # Contributors
 * [Aman Kumar Mallik](https://github.com/Octaves0911)
