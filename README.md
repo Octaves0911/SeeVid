@@ -38,7 +38,7 @@ And there are tons of people who make these videos, for myriad reasons. It might
 
 * Can be used as an tool for generating the insights of a video
 * Execution time and accuracy can be improved
-* more optimized similarity fucntions can be used for understanding the keywords better
+* more optimized similarity functions can be used for understanding the keywords better
 
 # Contributors
 * [Aman Kumar Mallik](https://github.com/Octaves0911)
