@@ -41,8 +41,8 @@ And there are tons of people who make these videos, for myriad reasons. It might
 * more optimized similarity fucntions can be used for understanding the keywords better
 
 # Contributors
-* (Aman Kumar Mallik)[https://github.com/Octaves0911]
-* (Rithik Dutt)[https://github.com/Rithik-rethink]
-* (Ashutosh Mahapatra)[https://github.com/amahapatra13]
+* [Aman Kumar Mallik](https://github.com/Octaves0911)
+* [Rithik Dutt](https://github.com/Rithik-rethink)
+* [Ashutosh Mahapatra](https://github.com/amahapatra13)
 
 
