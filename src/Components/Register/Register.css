@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Allura&display=swap');
+
+.logo2{
+    width: 100%;
+    text-align: center;
+    color: rgb(32, 31, 31);
+    font-family: 'Allura', cursive;
+    font-size: 80px;
+}
+
+.register {
+    margin-top:5%;
+    margin : 0 auto;
+
+}
+
+.register > img {
+    width : 100% ;
+}
+.register > div > h1 {
+    border-bottom-style: ridge;
+    margin : 0 auto;
+    width : 60%;
+    text-align: center;
+}
+.register > div {
+    margin-bottom : 5%;
+}
+.form {
+    width : 50%;
+}
+.l{
+    background-color: black;
+}
+.btn1 {
+    border-radius : 99px;
+    text-align: center;
+}
+.policy {
+    text-align: center;
+}
+.login_redirect {
+    font-weight: 900;
+    text-align: center;
+}
+.error{
+    color : red;
+    text-align: center;
+}
+.error2 {
+    color : red;
+}

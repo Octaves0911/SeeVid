@@ -1,0 +1,60 @@
+html {
+    font-size: 10px;
+}
+body {
+    background-color: whitesmoke;
+}
+
+.padd-u{
+    padding-top: 2%;
+}
+.footer {
+    background-color: rgb(95, 95, 95);
+    color: white;
+    overflow: hidden;
+}
+
+.left { 
+    font-size: 40px;
+    font-weight: 500;
+}
+h3{
+    color : rgb(85, 85, 85);
+}
+h4{
+    color : rgb(255, 255, 255);
+    cursor: pointer;
+}
+h4:hover {
+    transition: 200ms all ease;
+    color : #3f51b5;
+}
+.options {
+    text-align: right;
+}
+.footer-row{
+    border-bottom: 1px ridge grey;
+}
+.social-footer:hover{
+    color : #3f51b5;
+    transition: 200ms all ease;
+    cursor: pointer;
+}
+.copyright {
+    text-align: right;
+}
+@media screen and (max-width : 600px){
+    .footer{
+        text-align: center;
+    }
+    .options {
+        text-align: center;
+    }
+    .copyright{
+        text-align: center;
+        padding-top: 5px;
+    }
+}
+.end{
+    padding-bottom: 3%;
+}
