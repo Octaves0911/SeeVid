@@ -4,7 +4,7 @@
   
   # SeeVid
   
-Thinking of adding a magical sunset scene to end a reel? Maybe particular part of a conference that you missed? Whatever it maybe, SeeVid provides you the timestamp of the exact content you're looking for with just a prompt word. It serves by helping pinpoint these instances to you, make the task of extracting your favorite clip from a video hassle-free and thus conveniently aiding users in the creation of diverse content!
+Thinking of adding a magical sunset scene to end a reel? Maybe particular part of a conference that you missed? Whatever it maybe, SeeVid provides you the timestamp of the exact content you're looking for with just a prompt word. It serves by helping pinpoint these instances to you, make the task of extracting your favorite clip from a video hassle-free and thus conveniently aiding users in the creation of diverse content! You can have a look at the working by [clicking here](https://www.youtube.com/watch?v=0pWg_VNPZz0).
 
 
   # Problem Statement
