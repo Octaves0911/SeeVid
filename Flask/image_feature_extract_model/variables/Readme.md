@@ -1,1 +1,0 @@
-You can find the checkpoints files by clicking [here](https://drive.google.com/drive/folders/1ggPwIkhYXVRT4Cp5F27UZs8Ira8DNraY?usp=sharing).
