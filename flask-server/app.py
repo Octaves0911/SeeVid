@@ -243,7 +243,7 @@ def start_rendering(video_url):
 
             if(len(text_in_frame) > 0 ):
                 text_list = s.join([x[1] for x in (text_in_frame)])
-                print(text_list)
+                print("->", text_list)
                 frame_to_caption[f].extend(map(str.lower,text_list.split()))
                 print("OCR part over in ",(time.time()-inter))
                 print(frame_to_caption[f])
@@ -264,6 +264,9 @@ def frame_to_timestamps(frame_to_caption,keyword):
 
     res = set(res)
     res = list(res)
+    if(len(res) == 0 ):
+       # return jsonify()
+       return
     res.sort()
     min = 0
     max = res[-1]
