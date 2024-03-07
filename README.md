@@ -44,5 +44,3 @@ And there are tons of people who make these videos, for myriad reasons. It might
 * [Aman Kumar Mallik](https://github.com/Octaves0911)
 * [Rithik Dutt](https://github.com/Rithik-rethink)
 * [Ashutosh Mahapatra](https://github.com/amahapatra13)
-
-
